@@ -60,7 +60,7 @@ class GridPage extends StatelessWidget {
 
     return Scaffold(
 
-      // 🔥 APPBAR PRO
+      //  APPBAR
       appBar: AppBar(
         elevation: 0,
         centerTitle: true,
