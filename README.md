@@ -134,3 +134,11 @@ El diseño sigue una estética moderna inspirada en aplicaciones de comercio ele
 * Enfoque visual en las imágenes
 
 ---
+
+
+<img width="515" height="722" alt="image" src="https://github.com/user-attachments/assets/ed2cf0ed-c099-499c-861d-49f9a704112c" />
+<img width="514" height="723" alt="image" src="https://github.com/user-attachments/assets/05b5ffe2-64c7-40e7-8aa3-a1f3ae6e76dd" />
+<img width="512" height="730" alt="image" src="https://github.com/user-attachments/assets/cd69c2fb-614f-4dc9-abca-483075da8b01" />
+<img width="422" height="716" alt="image" src="https://github.com/user-attachments/assets/2c78b589-0ed3-4072-ad31-1800b418fec8" />
+<img width="427" height="715" alt="image" src="https://github.com/user-attachments/assets/89649e54-a29f-49ce-8cda-99595ec53b30" />
+
